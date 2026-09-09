@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sou um estudante focado em desenvolvimento de software, sempre buscando evoluir minhas habilidades e construir projetos práticos. Tenho interesse tanto em desenvolvimento frontend quanto em backend.
+Sou um estudante com o foco em desenvolvimento de software, sempre buscando evoluir minhas habilidades e construir projetos práticos. Tenho interesse em desenvolvimento frontend.
